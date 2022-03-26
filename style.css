@@ -1,0 +1,30 @@
+.jumbotron {
+    background-image: url("gutheader.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
+  body {
+    background-color: "white";
+    }
+
+h1 {
+    font: size 40px;
+    color: "bg-dark";
+    }
+h2 {
+    font-size:30px;
+    color:"bg-dark";
+}
+h3{
+    font-size:20px;
+    color:blue ;
+}
+.panel{
+ background-color: darkgoldenrod;
+}
+p {
+    font-size: 20px;
+    color: "white";
+    font-weight: bold;
+    font-style: italic;
+}
